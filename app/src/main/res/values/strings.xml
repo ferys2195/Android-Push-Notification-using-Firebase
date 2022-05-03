@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LatihanFCM</string>
+    <string name="channel_id" translatable="false">Belajar</string>
+</resources>
